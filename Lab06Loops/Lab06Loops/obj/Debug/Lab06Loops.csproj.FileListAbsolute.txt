@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\bin\Debug\Lab06Loops.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\bin\Debug\Lab06Loops.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\bin\Debug\Lab06Loops.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab06Loops\Lab06Loops\obj\Debug\Lab06Loops.pdb

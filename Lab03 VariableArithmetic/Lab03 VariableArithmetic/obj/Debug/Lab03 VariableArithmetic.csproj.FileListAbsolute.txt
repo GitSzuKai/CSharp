@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\bin\Debug\Lab03 VariableArithmetic.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\bin\Debug\Lab03 VariableArithmetic.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\bin\Debug\Lab03 VariableArithmetic.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03 VariableArithmetic.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03_VariableArithmetic.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03_VariableArithmetic.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03 VariableArithmetic.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03 VariableArithmetic.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab03 VariableArithmetic\Lab03 VariableArithmetic\obj\Debug\Lab03 VariableArithmetic.pdb

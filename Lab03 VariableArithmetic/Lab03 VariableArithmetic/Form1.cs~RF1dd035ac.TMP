@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lab03_VariableArithmetic
+{
+    public partial class Form1 : Form
+    {
+        const double pizzaprice = 10.00;
+        const double drinkprice = 2.00;
+        const double tax = 1.08;
+        const double exchangerate = 1.1;
+
+        public Form1()
+        {
+            InitializeComponent();
+            
+        }
+
+        private void btncompute_Click(object sender, EventArgs e)
+        {
+            
+            int numPizza;
+            int numDrinks;
+            int coupon;
+            double subtotal;
+            double discount;
+            double priceafterDiscount;
+            double priceTax;
+            double priceEuro;
+            double a = 1.2; 
+            int b = 2;
+            double test;
+            test = a * b;
+            txttest.Text = test.ToString();
+            
+            //Text Change To number 
+            numPizza = int.Parse(txtnumpizza.Text);
+            numDrinks = int.Parse(txtnumdrink.Text);
+            coupon = int.Parse(txtcoupon.Text);
+            double couponinpercent = coupon/100;
+
+            
+            //Calculation
+            subtotal = pizzaprice * numPizza + drinkprice * numDrinks;
+            discount = subtotal * couponinpercent;
+            priceafterDiscount = subtotal - discount;
+            priceTax = priceafterDiscount * tax;
+            priceEuro = priceTax * exchangerate;
+
+            //Show output
+            txtsubtotal.Text = subtotal.ToString("c2");
+            txtdiscount.Text = discount.ToString("C2");
+            txtafterdiscount.Text = priceafterDiscount.ToString();
+            txttaxtotal.Text = priceTax.ToString();
+            txttotaleuro.Text = priceEuro.ToString();
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\bin\Debug\Lab05Validation.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\bin\Debug\Lab05Validation.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\bin\Debug\Lab05Validation.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab05Validation\Lab05Validation\obj\Debug\Lab05Validation.pdb

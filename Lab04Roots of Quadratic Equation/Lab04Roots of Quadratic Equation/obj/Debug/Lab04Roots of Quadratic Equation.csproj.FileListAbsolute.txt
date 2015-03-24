@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\bin\Debug\Lab04Roots of Quadratic Equation.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots of Quadratic Equation.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots_of_Quadratic_Equation.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots_of_Quadratic_Equation.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots of Quadratic Equation.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\bin\Debug\Lab04Roots of Quadratic Equation.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\bin\Debug\Lab04Roots of Quadratic Equation.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots of Quadratic Equation.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab04Roots of Quadratic Equation\Lab04Roots of Quadratic Equation\obj\Debug\Lab04Roots of Quadratic Equation.pdb

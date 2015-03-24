@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lab07Loop
+{
+    public partial class Form1 : Form
+    {
+        const double vacinecost = 1.5;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnexit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btnttcost_Click(object sender, EventArgs e)
+        {
+            int numberofkids;
+            if (!int.TryParse(txtstarting.Text, out numberofkids) || numberofkids < 50)
+            {
+                MessageBox.Show("Number of kids must be a whole number and greater than or equal to 50", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtstarting.Focus();
+                return;
+            }
+
+            
+            int years;
+            if (!int.TryParse(txtyears.Text, out years) || years < 1 || years > 10)
+            {
+                MessageBox.Show("Years should be whole number and within 1-10", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtyears.Focus();
+                return;
+            }
+            double totalcost = 0;
+            
+            for (int i = 1; i<=years; i++)
+            {
+                numberofkids = numberofkids + (int)(numberofkids * 0.1);
+                
+            }
+            totalcost = numberofkids * vacinecost;
+            txttotcost.Text = totalcost.ToString("C");
+        }
+
+        private void txtstarting_TextChanged(object sender, EventArgs e)
+        {
+            int numberofkids;
+            if (txtstarting.Text.Length == 0 || !int.TryParse(txtstarting.Text, out numberofkids) || numberofkids < 50)
+            {
+                lblerror.Text = "Type in something";
+            }
+            if (txtstarting.Text.Length == 0)
+            {
+                lblerror.Text = "";
+                return;
+            }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
+        //    txtstarting.TabIndex = 0;
+        }
+
+     
+    }
+}

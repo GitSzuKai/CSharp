@@ -1,0 +1,102 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lab04Roots_of_Quadratic_Equation
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnexit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btnclear_Click(object sender, EventArgs e)
+        {
+            txtcoefficienta.Clear();
+            txtcoefficientb.Clear();
+            txtcoefficientc.Clear();
+            txtroot.Clear();
+        }
+
+        private void btncompute_Click(object sender, EventArgs e)
+        {
+            double coefficienta;
+            double coefficientb;
+            double coefficientc;
+            double discriminant;
+            double oneroot;
+            double tworoot1;
+            double tworoot2;
+
+            coefficienta = double.Parse(txtcoefficienta.Text);
+            coefficientb = double.Parse(txtcoefficientb.Text);
+            coefficientc = double.Parse(txtcoefficientc.Text);
+
+            discriminant = Math.Pow(coefficientb,2) - (4 * coefficienta * coefficientc);
+            oneroot = -coefficientb / (2 * coefficienta);
+            tworoot1 = (-coefficientb + Math.Sqrt(discriminant)) / (2 * coefficienta);
+            tworoot2 = (-coefficientb - Math.Sqrt(discriminant)) / (2 * coefficienta);
+            
+            if (discriminant < 0)
+            {
+                txtroot.Text = "Discrminant = " + discriminant.ToString("N2") +"\r\n"
+                               + "Equation has no real roots!";
+            }
+            else if (discriminant == 0)
+            {
+
+                txtroot.Text = "Discrminant = " + oneroot.ToString("N2") + "\r\n"
+                              + "Equation has one root";
+            }
+            else
+            {
+                txtroot.Text = "Equation has 2 real roots.\r\n" +
+                "Root1 = " + tworoot1.ToString("N2") + "\r\n" +
+                "Root2 = " + tworoot2.ToString("N2");
+            }
+
+
+            
+
+        }
+
+        private void btnfindmax_Click(object sender, EventArgs e)
+        {
+            double largestnumber = 0;
+            double coefficienta;
+            double coefficientb;
+            double coefficientc;
+
+            coefficienta = double.Parse(txtcoefficienta.Text);
+            coefficientb = double.Parse(txtcoefficientb.Text);
+            coefficientc = double.Parse(txtcoefficientc.Text);
+            if (coefficienta>=largestnumber)
+            {
+                largestnumber = coefficienta;
+
+            }
+            if (coefficientb>=largestnumber)
+            {
+                largestnumber = coefficientb;
+            }
+            else
+            {
+                largestnumber = coefficientc;
+            }
+            txtroot.Text = largestnumber.ToString();
+         }
+     }
+}
+

@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\bin\Debug\Lab07Loop.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\bin\Debug\Lab07Loop.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\bin\Debug\Lab07Loop.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab07Loop\Lab07Loop\obj\Debug\Lab07Loop.pdb

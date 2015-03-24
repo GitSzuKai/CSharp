@@ -1,0 +1,9 @@
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\bin\Debug\Lab02.exe.config
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\bin\Debug\Lab02.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\bin\Debug\Lab02.pdb
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.Cache
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.exe
+c:\users\peter.ustorm\documents\visual studio 2013\Projects\Lab02\Lab02\obj\Debug\Lab02.pdb
